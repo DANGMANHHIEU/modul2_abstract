@@ -10,8 +10,11 @@ public class test {
         circle[2] = new ComparableCircle("blue", true, 5.0);
 
         System.out.println("chua sap xep");
-        for (int i = 0; i < circle.length; i++) {
-            System.out.println(circle[i]);
+//        for (int i = 0; i < circle.length; i++) {
+//            System.out.println(circle[i]);
+//        }
+        for(ComparableCircle ci:circle){
+            System.out.println(ci);
         }
 
         System.out.println("sap xep lai:");
