@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="474c3a14-71f7-44be-9631-c6df0ec90064" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +37,35 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/modul2/abstract",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex2.test">
+  <component name="RunManager" selected="Application.ex3.test">
     <configuration name="ex2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex2.test" />
       <module name="abstract" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex3.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex3.test" />
+      <module name="abstract" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex3.test" />
         <item itemvalue="Application.ex2.test" />
         <item itemvalue="Application.test" />
       </list>
@@ -80,7 +102,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680147823445</updated>
-      <workItem from="1680147824777" duration="14052000" />
+      <workItem from="1680147824777" duration="16390000" />
+      <workItem from="1680181926712" duration="32000" />
+      <workItem from="1680229324114" duration="1614000" />
     </task>
     <servers />
   </component>

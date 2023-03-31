@@ -9,8 +9,8 @@ public class test {
         System.out.println(animals[i].makeSound());
 
     if (animals[i] instanceof  Chicken) {
-        Edible edible = (Chicken) animals[i];
-        System.out.println(edible.howToEat());
+        Edible a = (Chicken) animals[i];
+        System.out.println(a.howToEat());
     }
     }
     }
